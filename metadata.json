@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gmail Newsletter Feed",
+  "description": "A beautiful newsfeed stream that takes in newsletters from a Gmail account's updates folder and creates an engaging, clear, and minimalistic feed from them.",
+  "requestFramePermissions": []
+}
